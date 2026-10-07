@@ -10,7 +10,7 @@
     <a href="https://mehrabfolio.netlify.app" target="_blank">
       <img src="https://img.shields.io/badge/Live_Portfolio-mehrabfolio.netlify.app-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="mailto:venomehrab@gmail.com">
+    <a href="mailto:vnmwork2004@gmail.com">
       <img src="https://img.shields.io/badge/Email_Me-venomehrab%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
