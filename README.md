@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Hey there! I make interactive portofolios and web applications with HTML, CSS and JS. 
+I also do my UI/UX designs in Figma.
+
 <!--
 **VNM2004/VNM2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
